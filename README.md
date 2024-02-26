@@ -13,3 +13,6 @@ do conteudo aqui não será somente pura transcrição das palavras do curso, ma
 podendo a ver interpretações, releituras e acrescento de informações por parte do estudante que
 voz escreve, por tanto, não assuma esses notebook como transcrição ipsis litteris do
 conteudo do curso de NLP do Hugging Face.
+
+Link do Curso:
+https://huggingface.co/learn/nlp-course/chapter1/1
