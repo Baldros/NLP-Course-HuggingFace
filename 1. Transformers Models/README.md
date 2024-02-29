@@ -1,6 +1,6 @@
 # Sumário:
 
-Neste capítulo, você aprendeu como abordar diferentes tarefas de PNL usando a função de alto nível pipeline() da 🤗 Transformers. Também aprendeu a procurar e utilizar modelos no Hub, além de como usar a API de Inferência para testar os modelos diretamente no seu navegador.
+Neste capítulo, o objetivo é abordar diferentes tarefas de **NLP (Natural Language Processing)** usando a função de alto nível pipeline() da 🤗 Transformers. Também aprendeu a procurar e utilizar **modelos no Hub**, além de como usar a **API de Inferência** para testar os modelos diretamente no seu navegador.
 
 Discutimos como os modelos Transformer funcionam em um nível mais alto e falamos sobre a importância da transferência de aprendizado e ajuste fino. Um aspecto chave é que você pode usar a arquitetura completa ou apenas o codificador ou decodificador, dependendo do tipo de tarefa que pretende resolver. A tabela a seguir resume isso:
 
