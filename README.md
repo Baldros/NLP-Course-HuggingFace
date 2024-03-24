@@ -1,4 +1,4 @@
-# NLP-Course-HuggingFace
+# Curso de NLP HuggingFace
 
 ## Apresentação:
 
